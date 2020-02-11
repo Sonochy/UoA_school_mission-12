@@ -22,7 +22,8 @@ Kaggle account
 
 ## Licence
 
+[MIT](https://github.com/UoA_school_mission-12/LICENCE)
 
 ## Author
 
-[sonochy](https://github.com/sonochy)
+[Sonochy](https://github.com/Sonochy)
