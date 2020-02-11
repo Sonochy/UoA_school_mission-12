@@ -42,9 +42,12 @@ Option
   - Local環境で機械学習を行う際に有利です。
 
 ## Dataset
-- 各サンプルコードのデータ
-- 月Divinerのデータ
-- 皆様の研究テーマのデータ  
+- 画像分類
+  - [10-monkey-species](https://www.kaggle.com/slothkong/10-monkey-species)
+- 画像領域分割
+  - [carvana-image-masking-challenge](https://www.kaggle.com/c/carvana-image-masking-challenge/overview)
+  - 月Divinerのデータ
+- 参加者各自のデータ  
   
 ## Usage
 
