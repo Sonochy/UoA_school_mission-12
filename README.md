@@ -1,20 +1,26 @@
 <!--- https://deeeet.com/writing/2014/07/31/readme/ --->
-school_mission-12
+
+[school_mission-12](https://www.cps-jp.org/~tansaku/wiki/top/?school_mission-12)
 ====
 
-https://www.cps-jp.org/~tansaku/wiki/top/?school_mission-12
-
-## Description
-惑星探査育英会主催・第十二回実習会のGithubリポジトリ  
-参加者のレベルに応じて、下記の実習内容を予定しています。
-- [Google Colaboratory](https://colab.research.google.com/)を用いた環境構築不要の機械学習
-- [Kaggle](https://www.kaggle.com/)を用いた機械学習実践例の習得
-- [Docker](https://www.docker.com/)を用いたLocal環境＆研究データでの実践機械学習
+機械学習による画像分類、領域分割手法のサーベイ及び習得を目指す。
 
 ### Schedule
 2020年3月9日（月）13:20～3月11日（水）12:30（目標終了時刻）@The University of Aizu
 
+## Description
+惑星探査育英会主催・第十二回実習会のGithubリポジトリ  
+参加者のレベルに応じて、下記の実習内容を予定しています。
+1. [Google Colaboratory](https://colab.research.google.com/)を用いた環境構築不要の機械学習
+1. [Kaggle](https://www.kaggle.com/)を用いた機械学習実践例の習得
+1. [Docker](https://www.docker.com/)を用いたLocal環境＆実データでの実践機械学習
+
 <!--- ## Demo -->
+
+## Dataset
+- 各サンプルコードのデータ
+- 月Divinerのデータ
+- 皆様の研究テーマのデータ
 
 ## Requirement
 
@@ -27,11 +33,7 @@ https://www.cps-jp.org/~tansaku/wiki/top/?school_mission-12
   [前年度の実習会](https://www.cps-jp.org/~tansaku/wiki/top/?school_mission-11)
   の[ドキュメント](https://www.cps-jp.org/~tansaku/wiki/top/?11_%E4%BA%8B%E5%89%8D%E6%BA%96%E5%82%99)
   を参考にすると環境構築することができます。  
-
   
-
-
-
 ## Usage
 
 ## Install
