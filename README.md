@@ -6,16 +6,19 @@
 機械学習による画像分類、領域分割手法のサーベイ及び習得を目指す。
 
 ## Schedule
-2020年3月9日（月）13:20～3月11日（水）12:30（目標終了時刻）@The University of Aizu
+2020年3月9日（月）13:20～3月11日（水）12:30（目標終了時刻） @ The University of Aizu
 
 ## Description
 惑星探査育英会主催・第十二回実習会のGithubリポジトリ  
-クラウドベースの機械学習環境を実習に取り入れ、受講者のマシン準備や環境構築のハードルを下げました。  
+クラウドベースの機械学習環境を実習に取り入れ、  
+前年度と比べて受講者のマシン準備や環境構築のハードルを下げました。  
 
-参加者のレベルに応じて、下記の実習内容を予定しています。
-1. [Google Colaboratory](https://colab.research.google.com/)を用いた環境構築不要の機械学習
-1. [Kaggle](https://www.kaggle.com/)を用いた機械学習実践例の習得
-1. [Docker](https://www.docker.com/)を用いたLocal環境構築＆実データでの実践機械学習  
+下記の実習内容を予定しています。
+1. [Kaggle](https://www.kaggle.com/)の[Notebook](https://www.kaggle.com/aakashnain/what-does-a-cnn-see)
+を用いて機械学習（CNN）のキャッチアップ
+1. [Google Colaboratory](https://colab.research.google.com/)を用いてサンプルコードの実践
+1. Kaggleの公開データセットや手持ちのデータセットを用いて機械学習を実践
+1. [Docker](https://www.docker.com/)を用いてLocal環境構築＆実践機械学習(OPTION)  
 
 
 <!--- ## Demo -->
