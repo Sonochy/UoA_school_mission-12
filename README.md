@@ -61,7 +61,7 @@ Option
 
 ## Licence
 
-[MIT](https://github.com/UoA_school_mission-12/LICENCE)
+[MIT](https://github.com/Sonochy/UoA_school_mission-12/blob/master/LICENSE)
 
 ## Author
 
