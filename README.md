@@ -46,16 +46,13 @@ Option
 
 ## Dataset
 - 画像分類
+  - Tychoクレーター分類
   - [10-monkey-species](https://www.kaggle.com/slothkong/10-monkey-species)
 - 画像領域分割
   - [carvana-image-masking-challenge](https://www.kaggle.com/c/carvana-image-masking-challenge/overview)
   - 月Divinerのデータ
 - 参加者各自のデータ  
   
-## Usage
-
-## Install
-
 ## Contribution
 1. Fork it  
 1. Create your feature branch. 
