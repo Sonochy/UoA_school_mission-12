@@ -41,7 +41,6 @@ Option
 が参考になります。 
 - 機械学習の為のデータセットの前準備
   - 特にSegmentationを自分のデータで行いたい方は必要です。  
-  例えば、
 - NVIDIA GPU搭載の計算機環境  
   - Local環境で機械学習を行う際に有利です。
 
@@ -58,11 +57,16 @@ Option
 ## Install
 
 ## Contribution
-
+1. Fork it  
+1. Create your feature branch. 
+1. Commit your changes 
+1. Push to the branch   
+1. Create new Pull Request. 
 ## Licence
 
-[MIT](https://github.com/UoA_school_mission-12/LICENCE)
+[MIT](https://github.com/Sonochy/UoA_school_mission-12/blob/master/LICENSE)
 
 ## Author
 
 [Sonochy](https://github.com/Sonochy)
+[ISH_Y](https://github.com/IsHYuhi)
