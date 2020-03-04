@@ -65,5 +65,5 @@ Option
 
 ## Author
 
-[Sonochy](https://github.com/Sonochy)
+[Sonochy](https://github.com/Sonochy)  
 [ISH_Y](https://github.com/IsHYuhi)
