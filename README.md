@@ -58,7 +58,7 @@ Option
 1. Create your feature branch. 
 1. Commit your changes 
 1. Push to the branch   
-1. Create new Pull Request. 
+1. Create new Pull Request.  
 ## Licence
 
 [MIT](https://github.com/Sonochy/UoA_school_mission-12/blob/master/LICENSE)
