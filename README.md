@@ -9,7 +9,7 @@
 2020年3月9日（月）13:20～3月11日（水）12:30（目標終了時刻） @ The University of Aizu
 
 ## Description
-惑星探査育英会主催・第十二回実習会のGithubリポジトリ  
+惑星探査育英会主催・第十二回実習会の[Githubリポジトリ](https://github.com/Sonochy/UoA_school_mission-12)  
 [講義Slide](https://speakerdeck.com/sonochy/huo-xing-tan-cha-yu-ying-hui-di-shi-er-hui-shi-xi-hui)  
 クラウドベースの機械学習環境を実習に取り入れ、  
 前年度と比べて受講者のマシン準備や環境構築のハードルを下げました。  
